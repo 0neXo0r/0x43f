@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=5083&pause=1016&color=000000&background=41FF2D00&multiline=true&width=588&height=105&lines=Hi+I'm+L0⠵+Welcome+to+my+Repo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=5083&pause=1016&color=000000&background=41FF2D00&multiline=true&width=588&height=105&lines=Hi+I'm+Lo⠵+Welcome+to+my+Repo)](https://git.io/typing-svg)
